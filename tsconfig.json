@@ -1,0 +1,8 @@
+{
+  "extends": "shared/tsconfig",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "esModuleInterop": true
+  }
+}
