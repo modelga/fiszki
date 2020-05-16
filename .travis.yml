@@ -1,6 +1,6 @@
 language: node
 node_js: 12
-script: parcel build www/index
+script: parcel build www/index.html
 deploy:
   provider: pages
   skip_cleanup: true
